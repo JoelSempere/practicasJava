@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class Printer {
     public static String printerError(String s) {
         int cont = 0;
